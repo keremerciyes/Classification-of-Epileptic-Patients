@@ -68,7 +68,7 @@ The principal objective of this project is to establish a machine learning metho
 
 ### Conclusion
 
-In our comparative study, the Random Forest algorithm paired with K-Best feature selection (K=100) proved to be superior. This model's success is attributed to its ensemble nature, leveraging multiple decision trees and focusing on the most statistically significant features, demonstrating robust generalization capabilities.
+In our comparative study, the Random Forest algorithm paired with K-Best feature selection (K=100) proved to be superior. This model's success is attributed to its ensemble nature, leveraging multiple decision trees and focusing on the most statistically significant features, demonstrating robust generalization capabilities. For more detailed information, refer to the provided PDF presentation.
 
 ## References
 
